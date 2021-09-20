@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello this is branch creation in CMD.
+=======
+the quick brown fox jumps over the lazy dog.
+>>>>>>> testfeature
